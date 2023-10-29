@@ -1,10 +1,14 @@
 # CS-669-Assignment4-Curve-fitting
 
 Datasets:
+
 Dataset 1: 1-dimensional (Univariate) input data
+
 Dataset 2: 2-dimensional (Bivariate) input data
+
 For Dataset 1 and Dataset 2, divide the data into training, and test data. Train, and test split
 should be 70% and 30% respectively.
+
 Models:
 1. Polynomial curve fitting for Dataset 1
 2. Linear model for regression using Gaussian basis functions with the centers of clusters as the
@@ -12,6 +16,7 @@ centers of Gaussian basis functions for Datasets 2. Clusters may be formed using
 clustering method for the training data.
 Selection of model complexity and regularization parameter is to be done using the
 cross-validation method.
+
 Presentation of Results:
 1. Plot of the approximated functions (For Dataset 1):
 a. Training datasets of size 10, 50, 100 and complete training set.
